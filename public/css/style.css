@@ -1,0 +1,13 @@
+.navbar-default {
+    background-color: #008CBA;
+    border-color: transparent;
+}
+
+.panel-primary {
+    border-color: #008CBA;
+}
+.panel-primary > .panel-heading {
+    color: #ffffff;
+    background-color: #008CBA;
+    border-color: #008CBA;
+}
